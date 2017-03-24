@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'gt_america_expanded';
-    src: url('gt-america-trial-expanded-medium-webfont.woff2') format('woff2'),
-         url('gt-america-trial-expanded-medium-webfont.woff') format('woff');
+    src: url('https://cdn.rawgit.com/mimikins23/GTAmerica/master/gt-america-trial-expanded-medium-webfont.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/mimikins23/GTAmerica/master/gt-america-trial-expanded-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
